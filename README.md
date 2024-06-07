@@ -1,1 +1,1 @@
-My first readme
+Root README for alx-pre_course
